@@ -1,6 +1,7 @@
-def reverse_each_word("Hello there, and how are you?")
-  "Hello there, and how are you?".split
-  "Hello there, and how are you?".reverse_each_word(sentence1)
+def reverse_each_word(phrase)
+  phrase = "Hello there, and how are you?"
+  phrase.split
+  phrase.reverse_each_word(sentence1)
 end
 
   
