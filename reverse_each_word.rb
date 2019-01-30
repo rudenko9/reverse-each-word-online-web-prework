@@ -1,7 +1,7 @@
-def reverse_each_word(sentence1)
+def reverse_each_word(phrase)
   phrase = "Hello there, and how are you?"
   phrase.split
-  phrase.word.reverse(sentence1)
+  phrase.word.reverse(phrase)
 end
 
   
